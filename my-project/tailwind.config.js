@@ -6,7 +6,7 @@ export default {
   ],
   theme: {
     colors: {
-      'txt':'#3a2c3f',
+      'txt':'#3f3a5e',
       'shade': {
         100: '#edecf6',
         200: '#e9e7f4',
